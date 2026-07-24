@@ -1,0 +1,6 @@
+OrderStatus,Orders,OrderValue
+Delivered,606,44672715.85
+Cancelled,242,18051882.9
+Processing,239,19267504.2
+Shipped,208,10873690.45
+Returned,205,11847979.45

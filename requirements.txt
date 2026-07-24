@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+plotly 
+streamlit 
+faker 
+openpyxl 
+jupyter
+ipykernel
